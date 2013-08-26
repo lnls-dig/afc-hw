@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AMC_FMC_Carrier_35u_tears.PcbDoc   2013-07-25  13:39:23
+---------------------------------------------------------------------------
+
+Layer Pair : TOP to BTM
+ASCII Plated RoundHoles File : AMC_FMC_Carrier_35u_tears-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : AMC_FMC_Carrier_35u_tears-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : AMC_FMC_Carrier_35u_tears-SlotHoles-Plated.TXT
+EIA File   : AMC_FMC_Carrier_35u_tears.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          3954             7677.79 mm (302.28 Inch)
+T2        0.2032mm (8mil)          Round          2                10.96 mm (0.43 Inch)
+T3        0.25mm (9.842mil)        Round          118              686.42 mm (27.02 Inch)
+T4        0.4mm (15.748mil)        Round          488              2119.38 mm (83.44 Inch)
+T5        0.5mm (19.685mil)        Round          10               13.00 mm (0.51 Inch)
+T6        0.7mm (27.559mil)        Round          10               23.86 mm (0.94 Inch)
+T7        0.8mm (31.496mil)        Slot           4                7400.93 mm (291.38 Inch)
+T8        0.9mm (35.433mil)        Round          2                5.00 mm (0.20 Inch)
+T9        1mm (39.37mil)           Round          2                4.50 mm (0.18 Inch)
+T10       1.3mm (51.181mil)        Round          7                423.12 mm (16.66 Inch)
+T11       1.35mm (53.15mil)        Round          4                37.49 mm (1.48 Inch)
+T12       1.4mm (55.118mil)        Round          4                13.90 mm (0.55 Inch)
+T13       1.6mm (62.992mil)        Slot           1                7198.00 mm (283.39 Inch)
+T14       2.7mm (106.299mil)       Round          10               374.63 mm (14.75 Inch)
+T15       3.175mm (125mil)         Round          2                15.00 mm (0.59 Inch)
+T16       0.65mm (25.591mil)       Round          1         NPTH   0.00 mm (0.00 Inch)
+T17       0.85mm (33.465mil)       Round          1         NPTH   0.00 mm (0.00 Inch)
+T18       1mm (39.37mil)           Round          2         NPTH   10.00 mm (0.39 Inch)
+T19       1.3mm (51.181mil)        Round          4         NPTH   124.85 mm (4.92 Inch)
+---------------------------------------------------------------------------
+Totals                                            4626             26138.82 mm (1029.09 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:02

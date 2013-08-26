@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AMC_FMC_Carrier v2.PrjPcb]
+   Generated File[AMC_FMC_Carrier_35u_tears-RoundHoles-Plated.TXT]
+   Generated File[AMC_FMC_Carrier_35u_tears-RoundHoles-NonPlated.TXT]
+   Generated File[AMC_FMC_Carrier_35u_tears-SlotHoles-Plated.TXT]
+   Generated File[AMC_FMC_Carrier_35u_tears.DRL]
+   Generated File[AMC_FMC_Carrier_35u_tears.LDP]
+   Generated File[AMC_FMC_Carrier_35u_tears.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 13:39:25 On 2013-07-25
