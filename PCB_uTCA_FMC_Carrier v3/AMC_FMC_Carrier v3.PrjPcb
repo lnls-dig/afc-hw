@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
-OutputPath=
+OutputPath=Project Outputs for AMC_FMC_Carrier v3
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -288,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document17]
-DocumentPath=AMC_FMC_Carrier_35u_tears.PcbDoc
+DocumentPath=AMC_FMC_Carrier_v3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -800,38 +800,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document49]
-DocumentPath=changes v2 vs v1.txt
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document50]
-DocumentPath=AMC_FMC_Carrier v2.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document51]
 DocumentPath=RTM_CON.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +815,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document52]
+[Document50]
 DocumentPath=IPMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -863,23 +831,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document53]
-DocumentPath=..\..\COMMON_LIBS\RC.Txt
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document54]
+[Document51]
 DocumentPath=UI_mon.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -895,20 +847,39 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document52]
+DocumentPath=AMC_FMC_Carrier_v3.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[ProjectVariant1]
+Description=LNLS
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=IC47|UniqueId=\TDQDDSLN\EWMOLWVL\CHFNPTOX|Kind=1|AlternatePart= 
+Variation2=Designator=IC49|UniqueId=\TDQDDSLN\EWMOLWVL\MFFSPUFF|Kind=1|AlternatePart= 
+Variation3=Designator=IC46|UniqueId=\TDQDDSLN\EWMOLWVL\DMLTYGPQ|Kind=1|AlternatePart= 
+Variation4=Designator=IC66|UniqueId=\TDQDDSLN\EWMOLWVL\YEGEXLEL|Kind=1|AlternatePart= 
+Variation5=Designator=J10|UniqueId=\TDQDDSLN\EWMOLWVL\HCDCEYAY|Kind=1|AlternatePart= 
+Variation6=Designator=J9|UniqueId=\TDQDDSLN\EWMOLWVL\UTBILYSE|Kind=1|AlternatePart= 
+Variation7=Designator=J8|UniqueId=\TDQDDSLN\EWMOLWVL\RLAKGWFQ|Kind=1|AlternatePart= 
+Variation8=Designator=J3|UniqueId=\TDQDDSLN\EWMOLWVL\UGKAFVDS|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AMC_FMC_Carrier v3\AMC_FMC_Carrier.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for AMC_FMC_Carrier v3\AMC_FMC_Carrier.CSV
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=AMC_FMC_Carrier_35u_tears.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for AMC_FMC_Carrier v3\Design Rule Check - AMC_FMC_Carrier_35u_tears.html
+DocumentPath=Project Outputs for AMC_FMC_Carrier v3\Design Rule Check - AMC_FMC_Carrier_v3.html
 DItemRevisionGUID=
 
 [Configuration1]
