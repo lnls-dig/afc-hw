@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UVPQDEGE
+DocumentUniqueId=BDIHXCAK
 
 [Document2]
 DocumentPath=AMC_FMC_Carrier.SchDoc
@@ -87,7 +87,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WBUYTSFJ
+DocumentUniqueId=ALPNSNYR
 
 [Document4]
 DocumentPath=AMC-SATA.SchDoc
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JYCFJPGB
+DocumentUniqueId=YUKKSGJF
 
 [Document5]
 DocumentPath=Clock_crosspoint.SchDoc
@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LJKNRASX
+DocumentUniqueId=ROQVJQES
 
 [Document6]
 DocumentPath=Clock_management.SchDoc
@@ -206,7 +206,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TIMPMSYD
+DocumentUniqueId=DAETECNH
 
 [Document11]
 DocumentPath=FMC_HPC1.SchDoc
@@ -223,7 +223,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=POVYDOLC
+DocumentUniqueId=PDDDAXNV
 
 [Document12]
 DocumentPath=FMC_HPC2.SchDoc
@@ -240,7 +240,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GRCXRJMX
+DocumentUniqueId=AFRQUPMG
 
 [Document13]
 DocumentPath=FPGA.SchDoc
@@ -274,7 +274,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JKUUTNLL
+DocumentUniqueId=VUOWLPLR
 
 [Document15]
 DocumentPath=FPGA_SDRAM.SchDoc
@@ -308,7 +308,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HWDCXFRF
+DocumentUniqueId=PQKXKRRQ
 
 [Document17]
 DocumentPath=HeightRuleRoom1.9mm.SchDoc
@@ -325,7 +325,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GAOFXUAS
+DocumentUniqueId=AJGOHVBM
 
 [Document18]
 DocumentPath=I2C switch.SchDoc
@@ -342,7 +342,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JFEYVEAE
+DocumentUniqueId=VPYGJPCL
 
 [Document19]
 DocumentPath=IPMI.SchDoc
@@ -393,7 +393,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SYHMCHKP
+DocumentUniqueId=SCPWITMY
 
 [Document22]
 DocumentPath=M-LVDS PHY.SchDoc
@@ -410,7 +410,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OCRCFLUH
+DocumentUniqueId=EEHVQTVH
 
 [Document23]
 DocumentPath=Power_Management.SchDoc
@@ -444,7 +444,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MRPDPAKL
+DocumentUniqueId=UGMUISJS
 
 [Document25]
 DocumentPath=RTM_CON.SchDoc
@@ -461,7 +461,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CKPJQNWD
+DocumentUniqueId=TEMMLJGJ
 
 [Document26]
 DocumentPath=SDRAM.SchDoc
@@ -478,7 +478,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WURWHIPM
+DocumentUniqueId=WRCPWMFQ
 
 [Document27]
 DocumentPath=SUP_1.2_1.8.SchDoc
@@ -495,7 +495,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HAEWNNBD
+DocumentUniqueId=GNMUENYV
 
 [Document28]
 DocumentPath=SUP_1.5_3.3.SchDoc
@@ -512,7 +512,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DBHIURMS
+DocumentUniqueId=EIOSWNNV
 
 [Document29]
 DocumentPath=SUP_1.5_VTT.SchDoc
@@ -529,7 +529,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OPGJKUAC
+DocumentUniqueId=HICOPSVH
 
 [Document30]
 DocumentPath=SUP_1V.SchDoc
@@ -546,7 +546,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TMCERTXG
+DocumentUniqueId=FBKFOHTE
 
 [Document31]
 DocumentPath=SUP_2.5_FMC.SchDoc
@@ -563,7 +563,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CPIOUCBK
+DocumentUniqueId=CLWIDHWB
 
 [Document32]
 DocumentPath=SUP_3.3_FMC.SchDoc
@@ -580,7 +580,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XUOYLPLI
+DocumentUniqueId=HGDLBNEC
 
 [Document33]
 DocumentPath=THERMAL_MANAGEMENT.SchDoc
@@ -597,7 +597,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XYWPVJLR
+DocumentUniqueId=KJCLFCTT
 
 [Document34]
 DocumentPath=Thermometers.SchDoc
@@ -614,7 +614,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HSMWOTIS
+DocumentUniqueId=PQESEEML
 
 [Document35]
 DocumentPath=UI_mon.SchDoc
@@ -631,7 +631,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VFUHPFLL
+DocumentUniqueId=QESBSVKB
 
 [Document36]
 DocumentPath=USB_UART.SchDoc
@@ -665,7 +665,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RUWDQCQW
+DocumentUniqueId=CYYBWQBG
 
 [Document38]
 DocumentPath=AMC_Connector.Harness
@@ -1009,6 +1009,40 @@ DocumentUniqueId=
 
 [Document58]
 DocumentPath=USB_UART.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document59]
+DocumentPath=Connector_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IOOLAUWI
+
+[Document60]
+DocumentPath=Connector_Power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
